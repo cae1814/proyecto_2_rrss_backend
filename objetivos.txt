@@ -1,0 +1,26 @@
+Objetivo Global:
+
+1) Tener un Back-End para una RRSS estilo Instagram
+
+22/05/2024
+
+1) metodo de creacion de usuarios 
+2) metodo de autenticacion 
+
+
+
+3/jun/2024
+
+1) Crear un back end con seguridad 
+2) Json Web Token 
+3) Methodo de Autententicacion Bear
+4) Middleware de seguridad { /* Validar siempre que el token este activo */  }
+
+
+1. Post
+2. usuarios
+3. Ver el perfil de un usuario: Solo debe de mostrar informacion de usuario, como foto de perfil y nombre.
+4. Dar like a publicaciones del muro: en la tabla se debe de guardar quien es la persona quie esta dando likes añ comentario
+   por lo tanto es importante que en el reporte del muro lleve un conteo de likes cada Post
+5. Su red sociual debe de tyener estilos personalizados y agradables a la vista.
+6. Manejo de sesiones e inicio de sesion
