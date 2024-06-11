@@ -1,7 +1,7 @@
 import express from 'express';
 const publicacion = express();
 import { crear, listar, like, comentar, listarcomentarios } from '../controllers/ControllerPublicaciones.js';
-import multer from 'multer';
+import multer from 'multer'; 
 
 //Middleware 
 const storage = multer.memoryStorage();

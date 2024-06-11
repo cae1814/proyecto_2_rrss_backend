@@ -12,5 +12,5 @@ usuario.post('/crear', upload.single('imagen'), crearUsuario);
 usuario.get('/listar', listarUsuarios);
 usuario.get('/:id', verUsuario);
 usuario.post('/login', login);
-
+ 
 export { usuario }
